@@ -1,0 +1,14 @@
+package org.jsp.ecommerceapp.service;
+
+import org.jsp.ecommerceapp.dao.MerchantDao;
+import org.springframework.stereotype.Service;
+
+@Service
+public class MerchantService {
+	
+	
+	private MerchantDao merchantDao;
+	
+	
+	
+}
